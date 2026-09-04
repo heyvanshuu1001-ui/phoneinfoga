@@ -14,8 +14,8 @@ E.164 formatting for phone numbers entails the following:
 
 - A + (plus) sign
 - International Country Calling code
-- Local Area code
-- Local Phone number
+- Local Area code 244222
+- Local Phone number 9368096089
 
 For example, here’s a US-based number in standard local formatting: (415) 555-2671
 
